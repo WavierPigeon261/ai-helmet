@@ -1,4 +1,4 @@
-name: Build Android APK with Gradle
+name: Build Android APK with Gradle 
 
 on:
   push:
